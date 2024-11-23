@@ -1,7 +1,7 @@
 # Knew
 ceci est un projet de perfectionnement du cours maitriser laravel de M. Diams sur UDEMY 
 
-il s'agit de creer  un site de news denomme KNew dans  lequel les utilisateurs sont divise en deux groupe
+il s'agit de creer  un site de news denomme KNew dans  lequel les utilisateurs se divisent en deux grand groupes
 - l'auteur :
   * publier des articles et
   *  voir les commentaires
